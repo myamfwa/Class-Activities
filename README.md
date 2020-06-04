@@ -10,8 +10,8 @@ I'm currently enrolled in Univerity of Toronto's FinTech Bootcamp course with ot
 
 Enjoying the food, beaches, and sun of Portugal!
 
-<img scr="C:\Users\Dell XPS\Documents\FinTech Bootcamp\Class-Activities\images\Portugalbeach.jpg">
+<img src="C:\Users\Dell XPS\Documents\FinTech Bootcamp\Class-Activities\images\Portugalbeach.png">
 
-## Table of Contents
+### Table of Contents
 
 ### Links
